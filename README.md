@@ -7,7 +7,7 @@ A Python project to detect hand gestures and count the number of raised fingers 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hand_gesture_counter.git
+   git clone https://github.com/RizkyZaki/hand_gesture_counter.git
    cd hand_gesture_counter
    ```
 
