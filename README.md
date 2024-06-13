@@ -1,4 +1,4 @@
-# Hand Gesture Counter
+# Hand Signal Recognizer
 
 A Python project to detect hand gestures and count the number of raised fingers using OpenCV and MediaPipe.
 
